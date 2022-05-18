@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyCamera</string>
+    <string name="image_preview">이미지 미리보기</string>
+    <string name="capture">촬영</string>
+    <string name="flash">플래시</string>
 </resources>
