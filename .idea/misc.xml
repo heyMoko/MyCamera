@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/gozil/AndroidStudioProjects/git/MyCamera/app/src/main/res/drawable-v24/button_round_corner_4_black_24.xml" value="0.166" />
+        <entry key="..\:/Users/gozil/AndroidStudioProjects/git/MyCamera/app/src/main/res/layout/activity_image_list.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/gozil/AndroidStudioProjects/git/MyCamera/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/gozil/AndroidStudioProjects/git/MyCamera/app/src/main/res/layout/viewholder_image.xml" value="0.24010416666666667" />
       </map>
     </option>
   </component>
